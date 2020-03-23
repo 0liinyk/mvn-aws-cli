@@ -1,6 +1,6 @@
 # Maven, aws-cli, docker in docker
 
-Containerized maven, aws-cli, docker on alpine to avoid requiring them to be installed on CI machines.
+Containerized maven, aws-cli, docker on alpine to avoid requiring them to be installed on CI machines or locally.
 
 ## Build
 
